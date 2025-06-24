@@ -17,4 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 test change for feature/order branch
 test change for feature/login branch
+test change for feature/funA
 test change for feature/funB branch
